@@ -11,6 +11,26 @@
         <content type="html"><![CDATA[<p>最近我在 GitHub Actons 中用 yuque-hexo sync 同步语雀文章数据的时候遇到如下错误：<br><img src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1661998826108-0c65e5e1-b8f9-4d15-a6c6-a036e4f28ea3.png#clientId=u1cc6b8a0-93f6-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=211&id=uc1849078&margin=%5Bobject%20Object%5D&name=image.png&originHeight=211&originWidth=1478&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=26742&status=done&style=none&taskId=u90646942-f8eb-46cb-b643-905ea20e762&title=&width=1478" alt="image.png"><br>此错误的产生原因是：向语雀 API 发送请求的时候超过了 10 秒所以超时了。<br>这种情况重试即可。经过对 GitHub Actions 重试方法的探究，现找到了一种解决方案：<br><img src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1661999061027-5c8409e9-ca4d-4714-a625-d9eb4d27d7c1.png#clientId=u1cc6b8a0-93f6-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=167&id=u752037e4&margin=%5Bobject%20Object%5D&name=image.png&originHeight=167&originWidth=459&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=6551&status=done&style=none&taskId=u615612dc-4430-4eea-aed2-307d4ba8e81&title=&width=459" alt="image.png"><br>在你的 workflow 的 yml 文件内找到 yuque-hexo sync 命令，用“||”重试多次即可，我是最多重试 2 次。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> GitHub Pages </tag>
+            
+            <tag> GitHub Action </tag>
+            
+            <tag> yuque-hexo </tag>
+            
+        </tags>
       
     </entry>
     
