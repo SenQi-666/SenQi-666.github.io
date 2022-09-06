@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://blog.senqiweb.cn/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/archives/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/categories/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/gallery/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/link/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/about/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/2022/08/26/kv1ltl/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/categories/%E6%95%99%E7%A8%8B/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/categories/%E6%95%99%E7%A8%8B/Hexo/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/Hexo/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/GitHub-Pages/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/GitHub-Action/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/yuque-hexo/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/2022/09/01/hwmvic/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/2022/08/24/ps6wpf/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/categories/%E6%95%99%E7%A8%8B/Python/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/Python/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/PEP/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/2022/08/24/oatsqg/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/categories/%E6%95%99%E7%A8%8B/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/Nginx/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/uWSGI/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/tags/Django/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/archives/2022/09/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.senqiweb.cn/archives/2022/08/</loc>
+  <lastmod>2022-09-06T01:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
