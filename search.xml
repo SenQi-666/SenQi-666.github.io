@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Bing搜索引擎收录网站</title>
+      <link href="/2022/10/28/uvhhzk/"/>
+      <url>/2022/10/28/uvhhzk/</url>
+      
+        <content type="html"><![CDATA[<p>添加网站<br>先访问 <a href="https://www.bing.com/webmasters/home">必应网站管理员工具</a>，自行登录注册，然后点击左上角的添加网站。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937821723-bf8f904c-7323-46f6-9c35-6da0de00f6cb.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=692&id=uae452542&margin=%5Bobject%20Object%5D&name=2022-10-28-13-08-21-image.png&originHeight=692&originWidth=400&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=28073&status=done&style=none&taskId=u19066f7d-dad7-438c-8b3c-325e0b1fd86&title=&width=400" alt="2022-10-28-13-08-21-image.png"><br>在页面中填入你的网站域名，点击添加。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937839382-e55f2928-e474-4a7a-8629-74ecc7058f21.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=603&id=uc708a429&margin=%5Bobject%20Object%5D&name=2022-10-28-13-09-17-image.png&originHeight=603&originWidth=954&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=64011&status=done&style=none&taskId=ub58a23b8-22a3-40b9-9617-7c505728749&title=&width=954" alt="2022-10-28-13-09-17-image.png"></p><h2 id="验证网站"><a href="#验证网站" class="headerlink" title="验证网站"></a>验证网站</h2><p>添加网站后，我们通过 XML 文件的方式验证网站，只需要将该文件上传到网站的根目录即可。<br>注意：hexo 博客可能会编译该文件，编译后手动在 github 修改一下即可。XML 文件要放在 hexo 源码中的 source 文件夹内<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937854425-98efe9cc-a223-4b8c-9248-417292ea137e.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=567&id=uec0b8c0a&margin=%5Bobject%20Object%5D&name=2022-10-28-13-15-58-image.png&originHeight=567&originWidth=959&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=43541&status=done&style=none&taskId=uc51126be-4862-4d56-a786-d939ff669e6&title=&width=959" alt="2022-10-28-13-15-58-image.png"><br>上传完毕后点击按钮验证即可。看到该界面即代表添加成功。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937866507-78bcd988-30f9-425e-b900-eb5ca651fa61.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=348&id=u895102a7&margin=%5Bobject%20Object%5D&name=2022-10-28-13-39-29-image.png&originHeight=348&originWidth=952&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=23345&status=done&style=none&taskId=ua2c6bcb8-76b4-4779-9bd4-498b50da319&title=&width=952" alt="2022-10-28-13-39-29-image.png"></p><h2 id="配置网站地图"><a href="#配置网站地图" class="headerlink" title="配置网站地图"></a>配置网站地图</h2><p>接下来我们用在线生成器给网站生成 <code>sitemap.xml</code> 文件，该文件指向搜索引擎爬虫可索引的链接。<br>这里推荐一个工具：<a href="https://www.xml-sitemaps.com/">https://www.xml-sitemaps.com/</a><br>进入网站后输入你的网站域名，点击 START。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937880815-9d33d0ec-3bd1-4bb0-9dfe-1c64a8663307.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=254&id=u7f9d22d3&margin=%5Bobject%20Object%5D&name=2022-10-28-13-45-26-image.png&originHeight=254&originWidth=1231&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=153233&status=done&style=none&taskId=u1f4ffae9-9bdb-4a5f-9d04-a674bbb0dab&title=&width=1231" alt="2022-10-28-13-45-26-image.png"><br>然后点击下方按钮查看详细信息。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937892750-99c0e9a4-3b0b-492c-85f9-d2f4c672f126.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=307&id=ud154d6d5&margin=%5Bobject%20Object%5D&name=2022-10-28-13-46-05-image.png&originHeight=307&originWidth=912&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=52565&status=done&style=none&taskId=u0a1d9590-961c-40c7-bda5-a034038307c&title=&width=912" alt="2022-10-28-13-46-05-image.png"><br>点击下载 <code>sitemap.xml</code> 文件。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937907107-ed684952-1e05-4daa-b030-264faf77ef9b.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=519&id=u877d2a1a&margin=%5Bobject%20Object%5D&name=2022-10-28-13-46-35-image.png&originHeight=519&originWidth=781&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=53324&status=done&style=none&taskId=ua0b4a305-eaef-4bc4-95f5-eaabeeb2998&title=&width=781" alt="2022-10-28-13-46-35-image.png"><br>然后将该文件上传到 hexo 源码中的 source 文件夹内，和上面的 XML 文件放置位置一样。<br>接下来我们在 Bing 中提交网站地图。输入 <code>域名/sitemap.xml</code>，并点击提交。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937919773-a0b11e52-c325-407e-8a3f-733955d7c525.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=726&id=ua33295f1&margin=%5Bobject%20Object%5D&name=2022-10-28-13-50-27-image.png&originHeight=726&originWidth=1584&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=83385&status=done&style=none&taskId=u9e870e7e-0d9e-4122-aa40-71c43cc52f4&title=&width=1584" alt="2022-10-28-13-50-27-image.png"><br>然后下方显示正在处理就代表配置完成啦。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.nlark.com/yuque/0/2022/png/29365957/1666937931315-e1156029-611c-4eaf-b18b-f853b013d9a1.png#clientId=u675c2a5b-68d5-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=548&id=ua8ed52d4&margin=%5Bobject%20Object%5D&name=2022-10-28-13-56-07-image.png&originHeight=548&originWidth=1048&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=37407&status=done&style=none&taskId=u5d381dcb-f820-45ad-b5ea-1c49434cf80&title=&width=1048" alt="2022-10-28-13-56-07-image.png"><br>提交完成后就可以等待 Bing 收录你的网站啦，一般收录需要半个月到一个月，可能会出现两个月的情况，请耐心等待。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> GitHub Pages </tag>
+            
+            <tag> Bing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo博客 Vercel 双向托管</title>
       <link href="/2022/09/27/xlzp8g/"/>
       <url>/2022/09/27/xlzp8g/</url>
